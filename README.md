@@ -1,1 +1,2 @@
 # odin-recipes
+#Project is a simple recipe webpage. Consists of a main index page containing some links to recipes. This will demonstrate basic usage of HTML, including elements, tags, and links, as well as basic knowledge of Git/GitHub.
